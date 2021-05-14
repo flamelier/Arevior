@@ -7,3 +7,6 @@ https://invite.arevior.com
 ## The code for this bot is private.
 
 Added webhooks feed.
+Added webhooks feed2.
+
+Updated version of bot in progress.
